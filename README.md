@@ -32,9 +32,11 @@ const sumaflecha=(a,b) => a+b
 
 ## Estructura
 
+```markdown
 /tarea-js--funciones
 │
 ├── index.html
 ├── funcion_flecha.js
 ├── funcion_trad.js
 └── README.md
+```
